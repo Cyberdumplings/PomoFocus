@@ -10,3 +10,6 @@ dotnet new console
 2.仅仅生成obj文件夹、C#.csproj、Program.cs
 方法:control + shit + p 选择.Net:Generate Assets for Build and Debug
 
+项目进度：
+智能计时-经典25分钟专注倒计时 √
+实时进度-动态进度条，专注进度一目了然√
