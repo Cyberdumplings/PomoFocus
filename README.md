@@ -1,10 +1,10 @@
 # 🍅 PomoFocus
 
 > 一个基于C#开发的番茄钟效率工具，帮助你保持专注，提升工作效率
-> [项目进度](note.txt)
 [![.NET Version](https://img.shields.io/badge/.NET-6.0-blue)](https://dotnet.microsoft.com/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![C#](https://img.shields.io/badge/C%23-10.0-purple)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+> [项目进度](note.txt)
 
 ## ✨ 特性
 
