@@ -1,4 +1,4 @@
-# 🍅 PomoFocus[项目进度](note.txt)
+# 🍅 PomoFocus
 
 > 一个基于C#开发的番茄钟效率工具，帮助你保持专注，提升工作效率
 [![.NET Version](https://img.shields.io/badge/.NET-6.0-blue)](https://dotnet.microsoft.com/)
@@ -14,7 +14,8 @@
 - 💾 **自动保存** - 数据持久化，关闭程序不丢失
 - 📈 **数据统计** - 查看专注时长和完成情况
 - 🔊 **声音提醒** - 专注结束自动提醒
-
+## 🛒项目进度
+- 进度详情(NOTE.txt)
 ## 🎯 快捷键
 
 | 按键 | 功能 |
