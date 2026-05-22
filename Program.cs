@@ -1,5 +1,7 @@
 ﻿
 using System; //1.using 相当于Python的import
+using System.Globalization;
+using System.Reflection.Metadata;
 using System.Threading; //用于Sleep
 namespace PomoFocus;//2.命名空间 相当于Python的包,用于组织代码
 class Program//3.类
@@ -9,6 +11,7 @@ class Program//3.类
         int workMinutes = 25;
         int totalSeconds = workMinutes * 60;
         int remainingSeconds = totalSeconds;
+        bool pressed = false;
 
         Console.Clear(); //清屏
         Console.Write("PomoFocus - 专注时刻\n");
@@ -16,7 +19,7 @@ class Program//3.类
         //Console.WriteLine($"番茄钟开始!专注{workMinutes} 分钟");//Console.WriteLine()能自动换行
         //Console.WriteLine($"倒计时:{remainingSeconds}秒");//Console.Write()不会自动换行
         
-        while(remainingSeconds > 0)
+        while(remainingSeconds >= 0)
         {
             //计算进度百分比 
             int elapsed = totalSeconds - remainingSeconds;
@@ -38,8 +41,15 @@ class Program//3.类
             remainingSeconds--;
         }
         Console.WriteLine("\n时间到!休息一下吧！ ");
-        Console.Beep(1000,1000); //发出提示音
-        
+        while(pressed==false)
+        {    
+            Console.Beep(1000,500); //发出提示音  
+            if (Console.KeyAvailable)//Console.KeyAvailable是瞄一眼
+            {
+                Console.ReadKey();//瞄到了赶紧拿
+                pressed = true;
+            }
+        }
         //Console.WriteLine("你好,PomoFocus");//5.输出
         Console.ReadKey();//6.等待用户按键
     }

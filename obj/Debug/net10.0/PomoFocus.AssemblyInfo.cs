@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PomoFocus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3de43fdc6dee94da3b79f387224bac1c3d28167b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0d325185abae1202de288355d606253556a7366")]
 [assembly: System.Reflection.AssemblyProductAttribute("PomoFocus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PomoFocus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
