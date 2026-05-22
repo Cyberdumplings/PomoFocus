@@ -1,0 +1,14 @@
+D:\Programs\C#学习项目\PomoFocus\bin\Debug\net10.0\PomoFocus.exe
+D:\Programs\C#学习项目\PomoFocus\bin\Debug\net10.0\PomoFocus.deps.json
+D:\Programs\C#学习项目\PomoFocus\bin\Debug\net10.0\PomoFocus.runtimeconfig.json
+D:\Programs\C#学习项目\PomoFocus\bin\Debug\net10.0\PomoFocus.dll
+D:\Programs\C#学习项目\PomoFocus\bin\Debug\net10.0\PomoFocus.pdb
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.AssemblyInfoInputs.cache
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.AssemblyInfo.cs
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.csproj.CoreCompileInputs.cache
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.dll
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\refint\PomoFocus.dll
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.pdb
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.genruntimeconfig.cache
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\ref\PomoFocus.dll

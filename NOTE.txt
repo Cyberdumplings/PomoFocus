@@ -1,0 +1,12 @@
+
+
+##2026/5/26
+环境配置
+#创建新项目
+dotnet new console
+两种情况
+1.生成obj文件夹、C#.csproj、Projram.cs、bin文件夹 
+方法:输入dotnet run
+2.仅仅生成obj文件夹、C#.csproj、Program.cs
+方法:control + shit + p 选择.Net:Generate Assets for Build and Debug
+
