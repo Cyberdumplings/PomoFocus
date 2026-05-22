@@ -12,3 +12,4 @@ D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\refint\PomoFocus.dll
 D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.pdb
 D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.genruntimeconfig.cache
 D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\ref\PomoFocus.dll
+D:\Programs\C#学习项目\PomoFocus\obj\Debug\net10.0\PomoFocus.sourcelink.json
